@@ -52,4 +52,9 @@ Prodej informací
 - **marketingový mix** 4P (prodcut, price, place, promotion)
 
 
+# Public relations (PR)
+**Neplacená komunikace**  
+Pozvu novináře a oni napíší článek (udělám současně nějakou dobročinnou akci apod..)
+- oboustraná komunikace - sběr zpětné vazby
+
 
