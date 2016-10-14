@@ -21,3 +21,35 @@ Napíšeme test a poté budou ústní zkouška.
 Obchod - činost za účel dosažení zisků  
 Elektronický obchod - převážná část obchodu je realizována elektronicky
 
+**Přímí obchod** jízdenka na inkartu
+**Nepřímí obchod** jízdenka, kterou si poté musím vyzvednout na kase
+
+## B2C obchodník -> spotřebitel
+Prodej informací
+- elektronický produkut booking.com (rezervace hotelů)
+
+### Oblastí B2C
+- prodej informací - pronájem software
+- prodej zboží
+- poskytování reklamních prostor
+- prodej poukázek  a voucherů na služby
+
+## B2B vztah mezi společnostmi
+- důraz na logistiku a zajištění obchodu
+
+
+## Cíle obchodníka
+- dobrá pověst (recenze, reference, hodnocení, certfikace)
+- zvyšovat obrat
+- reagovat na potřeby zákazníka
+- dlouhodobě působit na zákazníka
+
+# Obchodní proces
+## Proces výběru
+- potřeba  něco koupit (racionální / iracionální)
+
+# Pohled prodávajícího
+- **marketingový mix** 4P (prodcut, price, place, promotion)
+
+
+
